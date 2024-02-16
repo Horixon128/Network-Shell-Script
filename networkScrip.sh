@@ -11,3 +11,5 @@ echo "1. Chechinh Internet Conectivity"
 ping -c 4 www.google.com
 
 echo "-------------------------------------"
+
+#Hola
